@@ -1,0 +1,21 @@
+14th Jan => see strings.kt
+print some immutable strings
+long string and short string
+
+15th Jan => see arrays.kt
+Arrays assignment
+To respond privately
+
+18th Jan => see range.kt
+Check element in range (range and downTo functions)
+
+19th Jan => see mathWorkbook.kt
+Kotlin program to compute quotient and remainder
+
+20th Jan => see mathWorkbook.kt
+1. Add two numbers, use mutable variables user inputs numbers.
+
+22nd Jan => see conditionals.kt, fun nestedIf()
+1. Create nested if statements to check the status of a number; positive, negative, odd, even, zero, etc.
+
+// 19th: Flow control - loops (for, while), conditionals, ternary operands

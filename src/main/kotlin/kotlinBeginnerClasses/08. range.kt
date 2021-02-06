@@ -2,6 +2,8 @@ package kotlinBeginnerClasses
 
 fun main() {
     // Number range
+    // note: "until" excludes the upper limit while ".." includes it
+    //
     print("Numbers between 18 and 27: ")
     for (i in 18 until 27){
         print("$i, ")

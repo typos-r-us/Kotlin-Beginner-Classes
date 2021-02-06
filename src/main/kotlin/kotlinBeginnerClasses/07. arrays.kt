@@ -8,6 +8,13 @@ fun main() {
     {
         print(" $element") // ... print each element in same line
     }
+    println()
+    //  Additional studies;
+    //  Assignment from Coding in Flow, part 9 (https://www.youtube.com/playlist?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2):
+    // How do we always print out the last element in an array?
+    // A: Use the last() function
+    val lastElement = arrayName.last()
+    println("The last element in arrayName is: $lastElement")
     println() // Print a blank line
     // declaring an array using arrayOf<Int> //explicit type declaration
     // This array can contain only the explicitly defined datatype (Int in this case)
@@ -54,7 +61,7 @@ fun main() {
     // 18 Jan 2021
     // Check the size of a array (length)
     println("Check the size of a array (length)")
-    println("The size off arrayName3 is: ${arrayName3.size}")
+    println("The size of arrayName3 is: ${arrayName3.size}")
     // print border
     for (i in 1 until 30){
         print("=")
